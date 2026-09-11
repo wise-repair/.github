@@ -1,3 +1,5 @@
+<p><img src="https://raw.githubusercontent.com/wise-repair/.github/main/profile/wise-repair-logo.png" alt="Wise Repair logo" width="140"></p>
+
 # Wise Repair
 
 **Appliance service, supported by software built for the work.**
